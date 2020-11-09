@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis contactos</string>
+    <string name="nombre">Micaela Orellano</string>
+    <string name="telefono">2914136292</string>
+    <string name="email">miqa.orellano@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
